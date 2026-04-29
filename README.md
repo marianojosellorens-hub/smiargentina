@@ -1,6 +1,6 @@
 # SMI Argentina — Seguridad y Metodología Integral
 
-Landing page institucional para **SMI Argentina**, empresa especializada en servicios profesionales de seguridad e higiene laboral.
+Landing page institucional para **SMI Argentina**, empresa especializada en servicios profesionales de seguridad e higiene laboral, aguardamos su contacto al +54 9 11 5098 9865.
 
 ## Servicios cubiertos
 
